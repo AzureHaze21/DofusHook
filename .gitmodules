@@ -1,0 +1,3 @@
+[submodule "lib/Blackbone"]
+	path = lib/Blackbone
+	url = https://github.com/DarthTon/Blackbone.git
